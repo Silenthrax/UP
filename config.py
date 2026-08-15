@@ -23,14 +23,14 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
 OWNER_ID = int(getenv("OWNER_ID", 5857831018))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "lll_BADNAM_BABY_llll")
-BOT_USERNAME = getenv("BOT_USERNAME", "Shivisongbot")
-BOT_NAME = getenv("BOT_NAME", "Sonali Music")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "ur_bbu)
+BOT_USERNAME = getenv("BOT_USERNAME", "Rockhush_Robot)
+BOT_NAME = getenv("BOT_NAME", "Rockhush Music")
 ASSUSERNAME = getenv("ASSUSERNAME")
 
 # ======================================================
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1003670001038))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002793573471)
 
 # Vars For API End Pont.
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
@@ -53,13 +53,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ======================================================
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/yjee4247-code/kirtipublic")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Silenthrax/UP")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "YOUR_GIT_TOKEN")
 
 # ======================================================
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Kirti_update")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/kirti_supprot_group")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/rockhushh")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/feell_the_pain")
 
 # ======================================================
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "1c21247d714244ddbb09925dac565aed")
@@ -75,8 +75,8 @@ STRING6 = getenv("STRING_SESSION6", None)
 STRING7 = getenv("STRING_SESSION7", None)
 
 # ======================================================
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/x5lytj.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/leaexg.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/69862e93c57666e0c63e7.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/69862e93c57666e0c63e7.jpg")
 
 PLAYLIST_IMG_URL = "https://files.catbox.moe/b0e4vk.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/psya34.jpg"
