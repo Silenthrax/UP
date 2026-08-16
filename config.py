@@ -22,7 +22,7 @@ API_HASH = getenv("API_HASH", "916a9424dd1e58ab7955001ccc0172b3")
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 
 # ======================================================
-OWNER_ID = int(getenv("OWNER_ID", 5857831018))
+OWNER_ID = int(getenv("OWNER_ID", "5857831018"))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "ur_bbu")
 BOT_USERNAME = getenv("BOT_USERNAME", "Rockhush_Robot")
 BOT_NAME = getenv("BOT_NAME", "Rockhush Music")
@@ -33,8 +33,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int (getenv("LOGGER_ID", "-1002793573471"))
 
 # Vars For API End Pont.
-YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
-YT_API_KEY = getenv("YT_API_KEY" , 'xbit_GjLUhA7Xsu_5Dr_xBdFZLr8LzorcKIkK') ## Your API key like: xbit_10000000xx0233 Get from  https://t.me/tgmusic_apibot
+YTPROXY_URL = getenv("YTPROXY_URL", 'https://api01.shrutibots.site') ## xBit Music Endpoint.
+YT_API_KEY = getenv("YT_API_KEY" , 'ShrutiBotsjdYv69NaITxXoxuEjwYt') ## Your API key like: xbit_10000000xx0233 Get from  https://t.me/tgmusic_apibot
 
 # ======================================================
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
